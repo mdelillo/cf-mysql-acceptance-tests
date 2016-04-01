@@ -7,19 +7,19 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/cf-test-helpers/cf",
-			"Rev": "135579ed3e53d6ac04cb14e1f6e2b302a0212509"
+			"Rev": "be97699700d8615a9b005065c34ae8ec981795bc"
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/cf-test-helpers/generator",
-			"Rev": "135579ed3e53d6ac04cb14e1f6e2b302a0212509"
+			"Rev": "be97699700d8615a9b005065c34ae8ec981795bc"
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/cf-test-helpers/runner",
-			"Rev": "135579ed3e53d6ac04cb14e1f6e2b302a0212509"
+			"Rev": "be97699700d8615a9b005065c34ae8ec981795bc"
 		},
 		{
 			"ImportPath": "github.com/cloudfoundry-incubator/cf-test-helpers/services",
-			"Rev": "135579ed3e53d6ac04cb14e1f6e2b302a0212509"
+			"Rev": "be97699700d8615a9b005065c34ae8ec981795bc"
 		},
 		{
 			"ImportPath": "github.com/go-sql-driver/mysql",
