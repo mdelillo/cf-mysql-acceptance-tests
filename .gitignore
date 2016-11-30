@@ -2,6 +2,8 @@ tags
 *.xml
 vendor/bin
 vendor/pkg
+Godeps/_workspace/bin
+Godeps/_workspace/pkg
 integration_config.json
 integration-config.json
 *.test
